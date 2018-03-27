@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="index.html">HOMEPAGE</a>
+  <a href= "daramola.html"> DARAMOLA </a>
+    
+  </div>
+  
+<title>Humanities</title>
+<link href="stylesheet.css" type="text/css" rel="stylesheet">
+</head>
+<body id="page3">
+    <div class="myDiv">My Text</div>
+	<span style="cursor:help">
